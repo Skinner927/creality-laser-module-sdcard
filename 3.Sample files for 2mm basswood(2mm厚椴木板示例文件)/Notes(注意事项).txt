@@ -1,0 +1,5 @@
+1.Before engraving, place a flat object that cannot be penetrated by the laser, such as an aluminum alloy or stainless steel plate on the workbench, and then place processing material.
+2.Need to move a gcode file to the root directory of the TF card.
+
+1.雕刻前，先在工作台上放置一块激光无法穿透的平面物体，如铝合金或不锈钢板，然后放置加工材料。
+2.需要移动一个gcode文件到TF卡的根目录下。

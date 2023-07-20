@@ -1,0 +1,2 @@
+Back up all the files to the computer and keep only one gcode file in the root directory.
+将所有文件备份到电脑中，根目录下只保留一个gcode文件。
